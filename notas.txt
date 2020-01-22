@@ -53,4 +53,16 @@ EMERGING TECHNOLOGIES AND CYBER SECURITY 8
 MICROSERVICES ARCHITECTURE / API / CONTAINERS 8
 SRE & DRE 8
 CORE DEVOPS CONCEPT 8
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOME DOS PROFESSORES:
+- CHRISTIANO
+- PAULO
+- JOSE
+- ANTONIO
+- MARIA
+- CLAUDIA
+- BETH
+- FRANCISCO
+- KOBA
+- SUSANE
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
